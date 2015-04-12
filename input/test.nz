@@ -1,0 +1,13 @@
+# this is a test file
+#this is a function 
+def md5_block(md, block):
+	#test arrays
+	arr[4] = [3,4,5,6]
+	x = 3
+	a = 4
+	b = x * a
+	#test swap
+	a<->b
+	#test bit move
+	a = a <<< 3
+
